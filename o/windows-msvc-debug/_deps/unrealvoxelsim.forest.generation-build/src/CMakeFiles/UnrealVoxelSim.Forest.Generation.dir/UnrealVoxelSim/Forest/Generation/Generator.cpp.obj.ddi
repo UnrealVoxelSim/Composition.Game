@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "_deps\\unrealvoxelsim.forest.generation-build\\src\\CMakeFiles\\UnrealVoxelSim.Forest.Generation.dir\\UnrealVoxelSim\\Forest\\Generation\\Generator.cpp.obj",
+            "outputs": [
+                "C:\\Software\\GitHub\\UnrealVoxelSim\\Composition.Game\\o\\windows-msvc-debug\\vc140.pdb",
+                "_deps\\unrealvoxelsim.forest.generation-build\\src\\CMakeFiles\\UnrealVoxelSim.Forest.Generation.dir\\UnrealVoxelSim\\Forest\\Generation\\Generator.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "src\\CMakeFiles\\UnrealVoxelSim.Composition.Game.dir\\UnrealVoxelSim\\Testbed\\World.cpp.obj",
+            "outputs": [
+                "C:\\Software\\GitHub\\UnrealVoxelSim\\Composition.Game\\o\\windows-msvc-debug\\vc140.pdb",
+                "src\\CMakeFiles\\UnrealVoxelSim.Composition.Game.dir\\UnrealVoxelSim\\Testbed\\World.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

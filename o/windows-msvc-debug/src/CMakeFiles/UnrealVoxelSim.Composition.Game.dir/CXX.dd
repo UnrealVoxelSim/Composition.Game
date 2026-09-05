@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build src\CMakeFiles\UnrealVoxelSim.Composition.Game.dir\UnrealVoxelSim\Composition\Game.cpp.obj: dyndep
+

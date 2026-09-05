@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build _deps\unrealvoxelsim.voxel.solid-build\src\CMakeFiles\UnrealVoxelSim.Voxel.Solid.dir\UnrealVoxelSim\Voxel\Solid\Controller.cpp.obj: dyndep
+

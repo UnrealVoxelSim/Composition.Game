@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "_deps\\unrealvoxelsim.movement.voxel-build\\src\\CMakeFiles\\UnrealVoxelSim.Movement.Voxel.dir\\UnrealVoxelSim\\Movement\\Voxel\\Controller.cpp.obj",
+            "outputs": [
+                "C:\\Software\\GitHub\\UnrealVoxelSim\\Composition.Game\\o\\windows-msvc-debug\\vc140.pdb",
+                "_deps\\unrealvoxelsim.movement.voxel-build\\src\\CMakeFiles\\UnrealVoxelSim.Movement.Voxel.dir\\UnrealVoxelSim\\Movement\\Voxel\\Controller.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

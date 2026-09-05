@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build _deps\unrealvoxelsim.navigation.voxel-build\src\CMakeFiles\UnrealVoxelSim.Navigation.Voxel.dir\UnrealVoxelSim\Navigation\Voxel\Planner.cpp.obj: dyndep
+
+build _deps\unrealvoxelsim.navigation.voxel-build\src\CMakeFiles\UnrealVoxelSim.Navigation.Voxel.dir\UnrealVoxelSim\Navigation\Voxel\Follower.cpp.obj: dyndep
+
+build _deps\unrealvoxelsim.navigation.voxel-build\src\CMakeFiles\UnrealVoxelSim.Navigation.Voxel.dir\UnrealVoxelSim\Navigation\Voxel\SolidEnvironment.cpp.obj: dyndep
+
+build _deps\unrealvoxelsim.navigation.voxel-build\src\CMakeFiles\UnrealVoxelSim.Navigation.Voxel.dir\UnrealVoxelSim\Navigation\Voxel\SolidInvalidation.cpp.obj: dyndep
+

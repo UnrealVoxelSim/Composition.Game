@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "_deps\\unrealvoxelsim.voxel.solid-build\\src\\CMakeFiles\\UnrealVoxelSim.Voxel.Solid.dir\\UnrealVoxelSim\\Voxel\\Solid\\Controller.cpp.obj",
+            "outputs": [
+                "C:\\Software\\GitHub\\UnrealVoxelSim\\Composition.Game\\o\\windows-msvc-debug\\vc140.pdb",
+                "_deps\\unrealvoxelsim.voxel.solid-build\\src\\CMakeFiles\\UnrealVoxelSim.Voxel.Solid.dir\\UnrealVoxelSim\\Voxel\\Solid\\Controller.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,3 +1,0 @@
-ninja_dyndep_version = 1.0
-build _deps\unrealvoxelsim.navigation.following-build\src\CMakeFiles\UnrealVoxelSim.Navigation.Following.dir\UnrealVoxelSim\Navigation\Following\Controller.cpp.obj: dyndep
-

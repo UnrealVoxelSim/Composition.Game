@@ -1,0 +1,10 @@
+/o/
+/.vs/
+/.vscode/
+/.idea/
+/_deps/
+/CPM_modules/
+CMakeUserPresets.json
+*.user
+
+cmake/CPM_*.cmake

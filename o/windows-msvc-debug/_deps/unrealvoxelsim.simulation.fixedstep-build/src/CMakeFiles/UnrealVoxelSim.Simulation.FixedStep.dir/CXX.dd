@@ -1,3 +1,0 @@
-ninja_dyndep_version = 1.0
-build _deps\unrealvoxelsim.simulation.fixedstep-build\src\CMakeFiles\UnrealVoxelSim.Simulation.FixedStep.dir\UnrealVoxelSim\Simulation\FixedStep\Controller.cpp.obj: dyndep
-
